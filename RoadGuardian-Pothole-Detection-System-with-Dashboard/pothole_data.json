@@ -1,0 +1,134 @@
+[
+    {
+        "id": 2,
+        "severity": "Medium",
+        "image_path": "pothole_coordinates\\pot2.jpg",
+        "datetime": "2026-05-19 17:14:41.752714"
+    },
+    {
+        "id": 1,
+        "severity": "Low",
+        "image_path": "pothole_coordinates\\pot1.jpg",
+        "datetime": "2026-05-19 17:14:50.241655"
+    },
+    {
+        "id": 3,
+        "severity": "Low",
+        "image_path": "pothole_coordinates\\pot3.jpg",
+        "datetime": "2026-05-19 17:14:55.589460"
+    },
+    {
+        "id": 5,
+        "severity": "High",
+        "image_path": "pothole_coordinates\\pot5.jpg",
+        "datetime": "2026-05-19 17:14:56.186942"
+    },
+    {
+        "id": 4,
+        "severity": "High",
+        "image_path": "pothole_coordinates\\pot4.jpg",
+        "datetime": "2026-05-19 17:14:56.365729"
+    },
+    {
+        "id": 6,
+        "severity": "High",
+        "image_path": "pothole_coordinates\\pot6.jpg",
+        "datetime": "2026-05-19 17:14:56.825313"
+    },
+    {
+        "id": 7,
+        "severity": "High",
+        "image_path": "pothole_coordinates\\pot7.jpg",
+        "datetime": "2026-05-19 17:15:01.125103"
+    },
+    {
+        "id": 8,
+        "severity": "High",
+        "image_path": "pothole_coordinates\\pot8.jpg",
+        "datetime": "2026-05-19 17:15:01.134284"
+    },
+    {
+        "id": 9,
+        "severity": "Low",
+        "image_path": "pothole_coordinates\\pot9.jpg",
+        "datetime": "2026-05-19 17:15:09.935825"
+    },
+    {
+        "id": 11,
+        "severity": "Low",
+        "image_path": "pothole_coordinates\\pot11.jpg",
+        "datetime": "2026-05-19 17:15:11.766289"
+    },
+    {
+        "id": 10,
+        "severity": "Low",
+        "image_path": "pothole_coordinates\\pot10.jpg",
+        "datetime": "2026-05-19 17:15:11.960727"
+    },
+    {
+        "id": 12,
+        "severity": "Low",
+        "image_path": "pothole_coordinates\\pot12.jpg",
+        "datetime": "2026-05-19 17:15:13.819524"
+    },
+    {
+        "id": 13,
+        "severity": "Low",
+        "image_path": "pothole_coordinates\\pot13.jpg",
+        "datetime": "2026-05-19 17:15:14.885273"
+    },
+    {
+        "id": 14,
+        "severity": "High",
+        "image_path": "pothole_coordinates\\pot14.jpg",
+        "datetime": "2026-05-19 17:15:18.822970"
+    },
+    {
+        "id": 15,
+        "severity": "Low",
+        "image_path": "pothole_coordinates\\pot15.jpg",
+        "datetime": "2026-05-19 17:15:27.114347"
+    },
+    {
+        "id": 16,
+        "severity": "Low",
+        "image_path": "pothole_coordinates\\pot16.jpg",
+        "datetime": "2026-05-19 17:15:31.375924"
+    },
+    {
+        "id": 17,
+        "severity": "Low",
+        "image_path": "pothole_coordinates\\pot17.jpg",
+        "datetime": "2026-05-19 17:15:35.130748"
+    },
+    {
+        "id": 19,
+        "severity": "Low",
+        "image_path": "pothole_coordinates\\pot19.jpg",
+        "datetime": "2026-05-19 17:15:39.885323"
+    },
+    {
+        "id": 18,
+        "severity": "High",
+        "image_path": "pothole_coordinates\\pot18.jpg",
+        "datetime": "2026-05-19 17:15:42.550991"
+    },
+    {
+        "id": 20,
+        "severity": "High",
+        "image_path": "pothole_coordinates\\pot20.jpg",
+        "datetime": "2026-05-19 17:15:44.316721"
+    },
+    {
+        "id": 22,
+        "severity": "High",
+        "image_path": "pothole_coordinates\\pot22.jpg",
+        "datetime": "2026-05-19 17:15:44.732298"
+    },
+    {
+        "id": 21,
+        "severity": "Medium",
+        "image_path": "pothole_coordinates\\pot21.jpg",
+        "datetime": "2026-05-19 17:15:46.178061"
+    }
+]

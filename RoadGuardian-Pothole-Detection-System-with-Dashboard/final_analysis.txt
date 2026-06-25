@@ -1,0 +1,10 @@
+
+========== FINAL ANALYSIS ==========
+
+Total Actual Potholes    : 144
+
+Total Correct Detections : 137
+
+Final Overall Accuracy   : 81.13%
+
+===================================
