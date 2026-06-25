@@ -23,6 +23,10 @@ The pothole detection system is designed to:
 - Geocoder
 - Ensure the necessary YOLOv4 Tiny model weights (`yolov4_tiny.weights`) and label names (`obj.names`) are available.
 
+## Dataset
+
+The `pothole_coordinates` dataset is intentionally excluded from Git tracking because of its size (approximately 635 MB) and should be downloaded separately or generated dynamically by running the project on test videos.
+
 ## Usage
 
 1. Ensure that the necessary libraries are installed.
